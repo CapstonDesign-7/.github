@@ -56,4 +56,4 @@
 숨겨진 명소를 찾는 관광객 증가
 - 나만의 이색여행지를 찾는 '나만의 명소 여행'도 내년 관광시장을 이끌 트렌드다. 공사에 따르면 여행 관련 키워드 중 '숨다', '숨은'이 점점 증가하고 있다. 설문조사에서도 응답자의 67.2%가 숨겨진 관광지를 찾기를 희망한다고 답했다. 숨겨진 여행지 선호도는 숲·산(69.8%), 바다·해안(60.8%), 도심의 숨은 명소(55.4%), 지방 소도시(54.0%) 순이었다.
 - https://mice.or.kr/bbs/board.php?bo_table=news&wr_id=1069
-- ![KakaoTalk_20241012_200047862](https://github.com/user-attachments/assets/2dff5736-ca07-49ed-a468-9d755a868a6c)
+![KakaoTalk_20241012_200047862](https://github.com/user-attachments/assets/2dff5736-ca07-49ed-a468-9d755a868a6c)
