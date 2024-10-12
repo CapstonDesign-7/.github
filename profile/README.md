@@ -16,13 +16,13 @@
 
 # 팀원
 - 신재현 : Front End
-  tlswogus1205@ganu.ac.kr
+  <br>tlswogus1205@ganu.ac.kr
   
 - 신용선 : Back End
-  asdf4503@gwnu.ac.kr
+  <br>asdf4503@gwnu.ac.kr
   
 - 박상훈 : Back End
-  qkrtkdgns4120@naver.com
+  <br>qkrtkdgns4120@naver.com
   
 - 김관호 : Front End
-  20191463@gwnu.ac.kr
+  <br>20191463@gwnu.ac.kr
