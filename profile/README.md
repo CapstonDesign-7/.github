@@ -11,4 +11,18 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-#팀원
+# 팀 주제
+- 
+
+# 팀원
+- 신재현 : Front End
+  tlswogus1205@ganu.ac.kr
+  
+- 신용선 : Back End
+  asdf4503@gwnu.ac.kr
+  
+- 박상훈 : Back End
+  qkrtkdgns4120@naver.com
+  
+- 김관호 : Front End
+  20191463@gwnu.ac.kr
